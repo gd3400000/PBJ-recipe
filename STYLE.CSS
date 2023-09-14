@@ -1,0 +1,48 @@
+html {
+  background-color: maroon;
+}
+
+body {
+  background-color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  width: 500px;
+  margin: 50px auto;
+  padding: 25px 75px;
+  border-radius: 10px;
+}
+
+h1 {
+  color: rgb(253, 6, 6);
+}
+
+/* h1,
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+} */
+
+h2 {
+  color: orange;
+  text-decoration: underline;
+}
+
+li {
+  color: green;
+  font-family: "Courier New", Courier, monospace;
+}
+
+a {
+  color: maroon;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: darkgreen;
+  font-size: 20px;
+}
+
+h1:hover {
+  color: blue;
+  font-size: 35px;
+}
